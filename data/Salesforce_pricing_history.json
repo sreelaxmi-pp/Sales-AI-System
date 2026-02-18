@@ -1,0 +1,16 @@
+{
+  "Starter": {
+    "price": 30,
+    "features": [
+      "CRM",
+      "Email Marketing"
+    ]
+  },
+  "Professional": {
+    "price": 900,
+    "features": [
+      "Automation",
+      "Reporting"
+    ]
+  }
+}

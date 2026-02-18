@@ -1,0 +1,15 @@
+{
+  "Starter": {
+    "price": 20,
+    "features": [
+      "CRM"
+    ]
+  },
+  "Professional": {
+    "price": 400,
+    "features": [
+      "Reporting",
+      "Automation"
+    ]
+  }
+}
